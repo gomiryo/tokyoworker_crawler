@@ -1,1 +1,3 @@
 # tokyoworker_crawler
+
+東京ウォーカーのイベント情報を取得するPHP製の簡易Webクローラです。
